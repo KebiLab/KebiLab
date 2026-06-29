@@ -46,7 +46,7 @@
 | **Данные** | PostgreSQL, SQLite, MySQL, JSON, REST |
 | **AI / ML** | YOLO, OpenRouter, Dialogflow, Rasa, кастомные пайплайны |
 | **Безопасность** | RSA, AES, гибридная криптография |
-| **Симуляции** | LAMMPS (молекулярная динамика) |
+| **Симуляции** | LAMMPS · OVITO · Atomsk |
 | **Инструменты** | Git, GitHub CLI, Docker, PowerShell, Bash |
 
 </div>
