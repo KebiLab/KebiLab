@@ -24,7 +24,7 @@
 
 ### Обо мне
 
-Разработчик, который предпочитает строить, а не обсуждать. Прошёл путь от первого Python-скрипта до production-систем на TypeScript, React и собственных AI-пайплайнов. Люблю вещи, где нужно думать: криптография, computer vision, чатбот-архитектуры, no-code платформы. В свободное время пишу инструменты для разработчиков — потому что лучший софт это тот, который решает твою же боль.
+Разработчик, который предпочитает строить, а не обсуждать. Основная работа — четыре крупные приватные системы на TypeScript (Earnia, Quilli, Paly, Rhytmy) общим объёмом больше 1.3М строк с PostgreSQL под капотом. Параллельно развиваю публичные open-source инструменты и экспериментирую с AI-агентами, криптографией, computer vision и no-code платформами. В свободное время пишу утилиты для разработчиков — потому что лучший софт это тот, который решает твою же боль.
 
 ```text
 Profile
@@ -64,7 +64,7 @@ Profile
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KebiLab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=8ec5fc&icon_color=8ec5fc" alt="GitHub Stats" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KebiLab&theme=tokyonight" alt="GitHub Stats" />
 &nbsp;
 <img height="180em" src="https://streak-stats.demolab.com/?user=KebiLab&theme=tokyonight&hide_border=true&background=0d1117&ring=8ec5fc&fire=8ec5fc&currStreakLabel=8ec5fc" alt="GitHub Streak" />
 
@@ -74,7 +74,9 @@ Profile
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KebiLab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=8&title=MultiLanguage,Commits,PullRequest,Repositories" alt="Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KebiLab&theme=tokyonight&layout=compact" alt="Top Languages" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KebiLab&theme=tokyonight&layout=compact" alt="Most Commit Language" />
 
 </div>
 
@@ -89,6 +91,47 @@ Profile
 ---
 
 ### Избранные проекты
+
+#### Главные системы
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Проект</th>
+      <th align="right">Объём</th>
+      <th align="left">Стек</th>
+      <th align="left">Кратко</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Earnia</b> &nbsp;<sub>private</sub></td>
+      <td align="right"><code>521K</code></td>
+      <td>TypeScript</td>
+      <td>Крупнейшая собственная система. Production-grade фронт и бэк в одной кодовой базе.</td>
+    </tr>
+    <tr>
+      <td><b>Quilli</b> &nbsp;<sub>private</sub></td>
+      <td align="right"><code>305K</code></td>
+      <td>TypeScript · PLpgSQL</td>
+      <td>Платформа с собственной схемой данных на PostgreSQL. Сложная бизнес-логика.</td>
+    </tr>
+    <tr>
+      <td><b>Paly</b> &nbsp;<sub>private</sub></td>
+      <td align="right"><code>262K</code></td>
+      <td>TypeScript · PLpgSQL</td>
+      <td>Production-проект с серьёзной реляционной моделью и продуманной архитектурой.</td>
+    </tr>
+    <tr>
+      <td><b>Rhytmy</b> &nbsp;<sub>private</sub> &nbsp;<sub><i>ex-Cadence</i></sub></td>
+      <td align="right"><code>204K</code></td>
+      <td>TypeScript</td>
+      <td>Personal energy OS для тех, кто работает головой. Учёт энергии, фокуса, ритма.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Open source
 
 <table>
   <thead>
@@ -134,6 +177,20 @@ Profile
       <td>Классический ToDo на React. Учебный, но честный.</td>
       <td>React</td>
     </tr>
+  </tbody>
+</table>
+
+#### AI и автоматизация
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Проект</th>
+      <th align="left">О чём</th>
+      <th align="left">Стек</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><b>KeBots</b> &nbsp;<sub>private</sub></td>
       <td>No-code платформа AI-чатботов для e-commerce. Гибридный движок: Rasa&nbsp;+&nbsp;OpenRouter. Деплой через CSV или API.</td>
@@ -143,11 +200,6 @@ Profile
       <td><b>KebiRobot</b> &nbsp;<sub>private</sub></td>
       <td>Retail-чатбот: рекомендации, трекинг заказов, поддержка. Dialogflow&nbsp;+&nbsp;FastAPI.</td>
       <td>Python · PostgreSQL · Telegram</td>
-    </tr>
-    <tr>
-      <td><b>Cadence</b> &nbsp;<sub>private</sub></td>
-      <td>Personal energy OS для тех, кто работает головой. Учёт энергии, фокуса, ритма.</td>
-      <td>TypeScript</td>
     </tr>
     <tr>
       <td><b>HuntAi</b> &nbsp;<sub>private</sub></td>
