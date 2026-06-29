@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a><img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,php,html,css,tailwind,react,nodejs,express,fastapi,django,apache,mysql,postgres,sqlite,docker,git,github,vscode,figma,linux,powershell,bash&perline=9" /></a>
+<a><img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,html,css,tailwind,react,nodejs,express,fastapi,django,mysql,postgres,sqlite,docker,git,github,vscode,figma,linux,powershell,bash&perline=9" /></a>
 
 </div>
 
@@ -40,12 +40,13 @@
 
 | Слой | Чем владею |
 | --- | --- |
-| **Языки** | TypeScript, JavaScript, Python, Go, Rust, PHP, SQL |
+| **Языки** | TypeScript, JavaScript, Python, Go, Rust, SQL |
 | **Фронт** | React, Tailwind, нативный HTML/CSS |
-| **Бэк** | Node.js (включая чистый, без npm), FastAPI, Django, Express, LAMP-стек |
-| **Данные** | PostgreSQL, SQLite, JSON, REST |
+| **Бэк** | Node.js (включая чистый, без npm), FastAPI, Django, Express |
+| **Данные** | PostgreSQL, SQLite, MySQL, JSON, REST |
 | **AI / ML** | YOLO, OpenRouter, Dialogflow, Rasa, кастомные пайплайны |
 | **Безопасность** | RSA, AES, гибридная криптография |
+| **Симуляции** | LAMMPS (молекулярная динамика) |
 | **Инструменты** | Git, GitHub CLI, Docker, PowerShell, Bash |
 
 </div>
