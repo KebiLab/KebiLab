@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8EC5FC&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=86&lines=FullStack+%C3%97+AI+%C3%97+Mobile+%C3%97+DevTools;30%2B+repos+%C2%B7+1M%2B+lines+in+12+months;Building+things+that+actually+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8EC5FC&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=86&lines=FullStack+%C3%97+AI+%C3%97+DevTools+%C3%97+Product;30%2B+repos+%C2%B7+1M%2B+lines+of+code;Building+things+that+actually+work" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,11 +24,10 @@
 
 ### Обо мне
 
-Разработчик, который предпочитает строить, а не обсуждать. За последние ~12 месяцев прошёл путь от первого Python-скрипта до production-систем на TypeScript, React, Flutter и собственных AI-пайплайнов. Люблю вещи, где нужно думать: криптография, computer vision, чатбот-архитектуры, no-code платформы. В свободное время пишу инструменты для разработчиков — потому что лучший софт это тот, который решает твою же боль.
+Разработчик, который предпочитает строить, а не обсуждать. Прошёл путь от первого Python-скрипта до production-систем на TypeScript, React и собственных AI-пайплайнов. Люблю вещи, где нужно думать: криптография, computer vision, чатбот-архитектуры, no-code платформы. В свободное время пишу инструменты для разработчиков — потому что лучший софт это тот, который решает твою же боль.
 
 ```text
 Profile
-  since        2025-07
   repositories 30+
   public stars 16
   total LOC    ~1.4M
@@ -41,7 +40,7 @@ Profile
 
 <div align="center">
 
-<a><img src="https://skillicons.dev/icons?i=ts,js,python,dart,kotlin,go,html,css,tailwind,react,nodejs,express,fastapi,flask,postgres,sqlite,docker,git,github,vscode,figma,linux,powershell,bash&perline=13" /></a>
+<a><img src="https://skillicons.dev/icons?i=ts,js,python,go,html,css,tailwind,react,nodejs,express,fastapi,flask,postgres,sqlite,docker,git,github,vscode,figma,linux,powershell,bash&perline=12" /></a>
 
 </div>
 
@@ -49,10 +48,9 @@ Profile
 
 | Слой | Чем владею |
 | --- | --- |
-| **Языки** | TypeScript, JavaScript, Python, Dart, Kotlin, Go, SQL |
+| **Языки** | TypeScript, JavaScript, Python, Go, SQL |
 | **Фронт** | React, Tailwind, нативный HTML/CSS |
 | **Бэк** | Node.js (включая чистый, без npm), FastAPI, Flask, Express |
-| **Мобайл** | Flutter, нативный Android (Kotlin) |
 | **Данные** | PostgreSQL, SQLite, JSON, REST |
 | **AI / ML** | YOLO, OpenRouter, Dialogflow, Rasa, кастомные пайплайны |
 | **Безопасность** | RSA, AES, гибридная криптография |
@@ -147,11 +145,6 @@ Profile
       <td>Python · PostgreSQL · Telegram</td>
     </tr>
     <tr>
-      <td><b>WalkToUnlock</b> &nbsp;<sub>private</sub></td>
-      <td>Мобильное приложение с биометрией и шагами. Кросс-платформа.</td>
-      <td>Flutter · Kotlin · Swift</td>
-    </tr>
-    <tr>
       <td><b>Cadence</b> &nbsp;<sub>private</sub></td>
       <td>Personal energy OS для тех, кто работает головой. Учёт энергии, фокуса, ритма.</td>
       <td>TypeScript</td>
@@ -169,9 +162,9 @@ Profile
 ### Сейчас в фокусе
 
 - Встраиваю AI-агентов в production через OpenRouter и кастомные пайплайны
-- Дорабатываю Flutter-приложение с биометрической аутентификацией
 - Развиваю TypeScript-бэкенды на чистом Node.js &mdash; без npm-зависимостей, на минимальном ядре
 - Изучаю Go как второй системный язык
+- Собираю no-code платформы, где продукт важнее стека
 
 ---
 
