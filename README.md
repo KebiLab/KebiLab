@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a><img src="https://skillicons.dev/icons?i=ts,js,python,go,html,css,tailwind,react,nodejs,express,fastapi,flask,postgres,sqlite,docker,git,github,vscode,figma,linux,powershell,bash&perline=12" /></a>
+<a><img src="https://skillicons.dev/icons?i=ts,js,python,go,html,css,tailwind,react,nodejs,express,fastapi,django,postgres,sqlite,docker,git,github,vscode,figma,linux,powershell,bash&perline=12" /></a>
 
 </div>
 
@@ -42,7 +42,7 @@
 | --- | --- |
 | **Языки** | TypeScript, JavaScript, Python, Go, SQL |
 | **Фронт** | React, Tailwind, нативный HTML/CSS |
-| **Бэк** | Node.js (включая чистый, без npm), FastAPI, Flask, Express |
+| **Бэк** | Node.js (включая чистый, без npm), FastAPI, Django, Express |
 | **Данные** | PostgreSQL, SQLite, JSON, REST |
 | **AI / ML** | YOLO, OpenRouter, Dialogflow, Rasa, кастомные пайплайны |
 | **Безопасность** | RSA, AES, гибридная криптография |
