@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a><img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,html,css,tailwind,react,nodejs,express,fastapi,django,mysql,postgres,sqlite,docker,git,github,vscode,figma,linux,powershell&perline=8" /></a>
+<a><img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,html,css,tailwind,react,nodejs,express,fastapi,django,mysql,postgres,sqlite,docker,git,github,vscode,figma,linux,powershell,bash&perline=8" /></a>
 
 </div>
 
