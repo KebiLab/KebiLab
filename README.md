@@ -214,16 +214,6 @@
 
 <div align="center">
 
-```text
-$ git log --oneline | wc -l
-1300+
-$ gh api user | jq .followers
-12
-$ echo "thanks for stopping by"
-```
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=KebiLab&label=profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/stars/KebiLab?logo=github&style=flat-square&color=0e75b6" alt="Total stars" />
