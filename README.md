@@ -117,47 +117,6 @@ I prefer **building over discussing**. If something can be solved with code, I'd
 
 ## Featured Projects
 
-### Core Platforms (Private)
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="right">Size</th>
-      <th align="left">Stack</th>
-      <th align="left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Earnia</b> &nbsp;<sub>private</sub></td>
-      <td align="right"><code>521K</code></td>
-      <td>TypeScript</td>
-      <td>Largest personal system. Production-grade frontend and backend in a single codebase.</td>
-    </tr>
-    <tr>
-      <td><b>Quilli</b> &nbsp;<sub>private</sub></td>
-      <td align="right"><code>305K</code></td>
-      <td>TypeScript · PLpgSQL</td>
-      <td>Platform with a custom data schema on PostgreSQL. Complex business logic.</td>
-    </tr>
-    <tr>
-      <td><b>Paly</b> &nbsp;<sub>private</sub></td>
-      <td align="right"><code>262K</code></td>
-      <td>TypeScript · PLpgSQL</td>
-      <td>Production project with a serious relational model and well-designed architecture.</td>
-    </tr>
-    <tr>
-      <td><b>Rhytmy</b> &nbsp;<sub>private</sub></td>
-      <td align="right"><code>204K</code></td>
-      <td>TypeScript</td>
-      <td>Personal energy OS for knowledge workers. Tracks energy, focus, and rhythm.</td>
-    </tr>
-  </tbody>
-</table>
-
-### Open Source
-
 <table>
   <thead>
     <tr>
@@ -168,28 +127,28 @@ I prefer **building over discussing**. If something can be solved with code, I'd
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/KebiLab/KebiShifrator"><b>KebiShifrator</b></a> &nbsp;<sub>4&#9733;</sub></td>
-      <td>Desktop file encryption tool. Hybrid RSA + AES scheme, PyQt6 interface.</td>
+      <td><a href="https://github.com/KebiLab/KebiShifrator"><b>KebiShifrator</b></a></td>
+      <td>Desktop file encryption tool. Hybrid RSA + AES encryption, PyQt6 interface.</td>
       <td>Python · PyQt6</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/KebiOrganise"><b>KebiOrganise</b></a> &nbsp;<sub>4&#9733;</sub></td>
+      <td><a href="https://github.com/KebiLab/KebiOrganise"><b>KebiOrganise</b></a></td>
       <td>Automatic file sorting by extension in any folder. GUI version.</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/KebiOrganiseCLI"><b>KebiOrganiseCLI</b></a> &nbsp;<sub>4&#9733;</sub></td>
+      <td><a href="https://github.com/KebiLab/KebiOrganiseCLI"><b>KebiOrganiseCLI</b></a></td>
       <td>Same sorting logic, but in the terminal. For those who live in the console.</td>
       <td>Python · CLI</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/python-utils-cli"><b>python-utils-cli</b></a> &nbsp;<sub>3&#9733;</sub></td>
+      <td><a href="https://github.com/KebiLab/python-utils-cli"><b>python-utils-cli</b></a></td>
       <td>CLI utilities: organization, hashing, verification, duplicate finder.</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/RockPaperScissorsByYOLO"><b>RockPaperScissorsByYOLO</b></a> &nbsp;<sub>1&#9733;</sub></td>
-      <td>Rock-Paper-Scissors via computer vision. YOLO detects hand gestures.</td>
+      <td><a href="https://github.com/KebiLab/RockPaperScissorsByYOLO"><b>RockPaperScissorsByYOLO</b></a></td>
+      <td>Rock-Paper-Scissors via computer vision. YOLO detects hand gestures in real time.</td>
       <td>Python · YOLO · CV</td>
     </tr>
     <tr>
@@ -199,37 +158,8 @@ I prefer **building over discussing**. If something can be solved with code, I'd
     </tr>
     <tr>
       <td><a href="https://github.com/KebiLab/ToDo-React"><b>ToDo-React</b></a></td>
-      <td>Classic ToDo app on React. Educational, but honest.</td>
+      <td>Clean ToDo app built with React. Minimal and functional.</td>
       <td>React</td>
-    </tr>
-  </tbody>
-</table>
-
-### AI & Automation
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">About</th>
-      <th align="left">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>KeBots</b> &nbsp;<sub>private</sub></td>
-      <td>No-code AI chatbot platform for e-commerce. Hybrid engine: Rasa + OpenRouter.</td>
-      <td>TypeScript · Python · Docker</td>
-    </tr>
-    <tr>
-      <td><b>KebiRobot</b> &nbsp;<sub>private</sub></td>
-      <td>Retail chatbot: recommendations, order tracking, support. Dialogflow + FastAPI.</td>
-      <td>Python · PostgreSQL · Telegram</td>
-    </tr>
-    <tr>
-      <td><b>HuntAi</b> &nbsp;<sub>private</sub></td>
-      <td>AI filter for freelance chats in Telegram. Finds relevant orders automatically.</td>
-      <td>Python · AI</td>
     </tr>
   </tbody>
 </table>
