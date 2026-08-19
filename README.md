@@ -9,7 +9,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=a0a0c0&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=86&lines=FullStack+%C3%97+AI+%C3%97+DevTools+%C3%97+Product;2.5M%2B+lines+of+code+%C2%B7+60%2B+repositories;Solo+builder+since+2023+%C2%B7+Minsk%2C+Belarus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=a0a0c0&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=86&lines=FullStack+%C3%97+AI+%C3%97+DevTools+%C3%97+Product;Custom+platforms+%C2%B7+Software+%C2%B7+Apps;Minsk%2C+Belarus+%C2%B7+Since+2023" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -56,9 +56,9 @@
 
 Developer, architect, and independent builder based in **Minsk, Belarus**.
 
-I build production systems that ship. My work spans **4 large private platforms** (Earnia, Quilli, Paly, Rhytmy) totaling **1.3M+ lines** of TypeScript with PostgreSQL backends. On top of that, I maintain **60+ public repositories** with tools, AI experiments, and developer utilities — crossing the **2.5M total lines of code** mark.
+I develop **custom platforms, software, and applications** on commission — from full-stack web systems and AI-powered tools to desktop utilities and developer automation. Everything from architecture to deployment, built to solve real problems.
 
-I've been active since **2023**, after losing a previous GitHub account, so a good chunk of my earlier work lives in local repos. What you see here is the public half.
+I maintain **20+ public repositories** with open-source tools, AI experiments, and developer utilities.
 
 I prefer **building over discussing**. If something can be solved with code, I'd rather ship it than talk about it.
 
