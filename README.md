@@ -87,31 +87,27 @@ I prefer **building over discussing**. If something can be solved with code, I'd
 
 ## GitHub Stats
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KebiLab&theme=tokyonight" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=KebiLab&theme=tokyonight&hide_border=true&background=0d1117&ring=8ec5fc&fire=8ec5fc&currStreakLabel=8ec5fc" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KebiLab&theme=tokyonight" alt="GitHub Stats" />
-&nbsp;
-<img height="180em" src="https://streak-stats.demolab.com/?user=KebiLab&theme=tokyonight&hide_border=true&background=0d1117&ring=8ec5fc&fire=8ec5fc&currStreakLabel=8ec5fc" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KebiLab&theme=tokyonight&layout=compact" alt="Top Languages" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KebiLab&theme=tokyonight&layout=compact" alt="Most Commit Language" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KebiLab&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=8ec5fc&line=8ec5fc&point=ffffff" alt="Activity Graph" />
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KebiLab&theme=tokyonight&layout=compact" alt="Top Languages by Repo" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KebiLab&theme=tokyonight&layout=compact" alt="Top Languages by Commit" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
