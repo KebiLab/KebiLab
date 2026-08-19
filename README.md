@@ -165,6 +165,6 @@ I prefer **building over discussing**. If something can be solved with code, I'd
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,35:12122e,65:1a1a3e,100:0a0a14&height=120&section=footer" />
 
-<sub>Built and maintained with care by <a href="https://github.com/KebiLab">@KebiLab</a> · Minsk, Belarus · 2026</sub>
+<sub><a href="https://github.com/KebiLab">@KebiLab</a> · Minsk, Belarus · 2026</sub>
 
 </div>
