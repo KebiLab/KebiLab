@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- KebiLab Logo -->
-<img src="https://raw.githubusercontent.com/KebiLab/KebiLab/main/assets/logo-full.svg" width="120" alt="KebiLab Logo" />
-
-<br/>
-
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,35:12122e,65:1a1a3e,100:0a0a14&height=220&section=header&text=Alexandr%20Kebikov&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20ML%20Engineer%20%7C%20Independent&descSize=18&descColor=a0a0c0&font=JetBrains+Mono" />
+<!-- Custom Header Banner -->
+<a href="https://kebilab.ru">
+<img width="100%" src="https://raw.githubusercontent.com/KebiLab/ReadmeForGithub/main/header-banner.svg" alt="KebiLab — Alexandr Kebikov" />
+</a>
 
 <br/>
 
@@ -19,11 +16,11 @@
 
 <!-- Quick Links -->
 <p>
-  <a href="https://kebilab.ru"><b>🌐 kebilab.ru</b></a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://github.com/KebiLab">github.com/KebiLab</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://t.me/KebiLab">📢 Telegram Channel</a>
+  <a href="https://kebilab.ru"><b><img src="https://img.shields.io/badge/kebilab.ru-4d8eff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></b></a>
+  &nbsp;
+  <a href="https://github.com/KebiLab"><img src="https://img.shields.io/badge/GitHub-KebiLab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://t.me/KebiLab"><img src="https://img.shields.io/badge/Telegram-@KebiLab-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <br/>
@@ -33,19 +30,31 @@
   <img src="https://user-badge.committers.top/belarus/KebiLab.svg" alt="committers.top badge" />
   &nbsp;
   <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/belarus.md">
-    <img src="https://img.shields.io/badge/Belarus_Top-Contributor-blue?style=flat-square&logo=github&logoColor=white" alt="Top GitHub Users in Belarus" />
+    <img src="https://img.shields.io/badge/Top_256_Public_Contributions-4d8eff?style=flat-square&logo=github&logoColor=white" alt="Top Public Contributions in Belarus" />
   </a>
   &nbsp;
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/belarus.md">
+    <img src="https://img.shields.io/badge/Top_Total_Contributions-4d8eff?style=flat-square&logo=github&logoColor=white" alt="Top Total Contributions in Belarus" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/belarus.md">
+    <img src="https://img.shields.io/badge/Top_Followers_Belarus-4d8eff?style=flat-square&logo=github&logoColor=white" alt="Top Followers in Belarus" />
+  </a>
+</p>
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=KebiLab&label=Profile+Views&color=4d8eff&style=flat-square" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/KebiLab?logo=github&style=flat-square&color=4d8eff" alt="Total stars" />
 </p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-Developer, architect, and independent builder based in **Minsk, Belarus** 🇧🇾.
+Developer, architect, and independent builder based in **Minsk, Belarus**.
 
 I build production systems that ship. My work spans **4 large private platforms** (Earnia, Quilli, Paly, Rhytmy) totaling **1.3M+ lines** of TypeScript with PostgreSQL backends. On top of that, I maintain **60+ public repositories** with tools, AI experiments, and developer utilities — crossing the **2.5M total lines of code** mark.
 
@@ -53,7 +62,7 @@ I've been active since **2023**, after losing a previous GitHub account, so a go
 
 I prefer **building over discussing**. If something can be solved with code, I'd rather ship it than talk about it.
 
-> 🇧🇾 Based in Belarus · Remote-first · Open to interesting collaborations
+> Based in Belarus · Remote-first · Open to interesting collaborations
 
 ---
 
@@ -76,7 +85,7 @@ I prefer **building over discussing**. If something can be solved with code, I'd
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -106,7 +115,7 @@ I prefer **building over discussing**. If something can be solved with code, I'd
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 ### Core Platforms (Private)
 
@@ -159,27 +168,27 @@ I prefer **building over discussing**. If something can be solved with code, I'd
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/KebiLab/KebiShifrator"><b>KebiShifrator</b></a> &nbsp;<sub>4★</sub></td>
+      <td><a href="https://github.com/KebiLab/KebiShifrator"><b>KebiShifrator</b></a> &nbsp;<sub>4&#9733;</sub></td>
       <td>Desktop file encryption tool. Hybrid RSA + AES scheme, PyQt6 interface.</td>
       <td>Python · PyQt6</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/KebiOrganise"><b>KebiOrganise</b></a> &nbsp;<sub>4★</sub></td>
+      <td><a href="https://github.com/KebiLab/KebiOrganise"><b>KebiOrganise</b></a> &nbsp;<sub>4&#9733;</sub></td>
       <td>Automatic file sorting by extension in any folder. GUI version.</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/KebiOrganiseCLI"><b>KebiOrganiseCLI</b></a> &nbsp;<sub>4★</sub></td>
+      <td><a href="https://github.com/KebiLab/KebiOrganiseCLI"><b>KebiOrganiseCLI</b></a> &nbsp;<sub>4&#9733;</sub></td>
       <td>Same sorting logic, but in the terminal. For those who live in the console.</td>
       <td>Python · CLI</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/python-utils-cli"><b>python-utils-cli</b></a> &nbsp;<sub>3★</sub></td>
+      <td><a href="https://github.com/KebiLab/python-utils-cli"><b>python-utils-cli</b></a> &nbsp;<sub>3&#9733;</sub></td>
       <td>CLI utilities: organization, hashing, verification, duplicate finder.</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/RockPaperScissorsByYOLO"><b>RockPaperScissorsByYOLO</b></a> &nbsp;<sub>1★</sub></td>
+      <td><a href="https://github.com/KebiLab/RockPaperScissorsByYOLO"><b>RockPaperScissorsByYOLO</b></a> &nbsp;<sub>1&#9733;</sub></td>
       <td>Rock-Paper-Scissors via computer vision. YOLO detects hand gestures.</td>
       <td>Python · YOLO · CV</td>
     </tr>
@@ -227,7 +236,7 @@ I prefer **building over discussing**. If something can be solved with code, I'd
 
 ---
 
-## 🔥 Currently Focused On
+## Currently Focused On
 
 - Embedding **AI agents** in production via OpenRouter and custom pipelines
 - Building **TypeScript backends** on vanilla Node.js — zero npm dependencies
@@ -236,17 +245,22 @@ I prefer **building over discussing**. If something can be solved with code, I'd
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| 🌐 **Website** | [kebilab.ru](https://kebilab.ru) |
-| 💬 **Telegram Channel** | [@KebiLab](https://t.me/KebiLab) |
-| 🐙 **GitHub** | [@KebiLab](https://github.com/KebiLab) |
-| 💼 **LinkedIn** | [Alexandr Kebikov](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BA%D0%B5%D0%B1%D0%B8%D0%BA%D0%BE%D0%B2-7271633b8/) |
-| 🎵 **TikTok** | [@kebi.lab](https://www.tiktok.com/@kebi.lab) |
+<table>
+  <tr>
+    <td align="center"><a href="https://kebilab.ru"><img src="https://img.shields.io/badge/Website-kebilab.ru-4d8eff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a></td>
+    <td align="center"><a href="https://t.me/KebiLab"><img src="https://img.shields.io/badge/Telegram-@KebiLab-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a></td>
+    <td align="center"><a href="https://github.com/KebiLab"><img src="https://img.shields.io/badge/GitHub-KebiLab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BA%D0%B5%D0%B1%D0%B8%D0%BA%D0%BE%D0%B2-7271633b8/"><img src="https://img.shields.io/badge/LinkedIn-Alexandr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
+    <td align="center"><a href="https://www.tiktok.com/@kebi.lab"><img src="https://img.shields.io/badge/TikTok-@kebi.lab-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a></td>
+    <td align="center"><a href="https://kebilab.ru"><img src="https://img.shields.io/badge/Location-Minsk%2C+Belarus-4d8eff?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -257,17 +271,23 @@ I prefer **building over discussing**. If something can be solved with code, I'd
 <img src="https://user-badge.committers.top/belarus/KebiLab.svg" alt="committers.top Belarus" />
 &nbsp;
 <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/belarus.md">
-  <img src="https://img.shields.io/badge/Belarus_Top-Contributor-blue?style=flat-square&logo=github&logoColor=white" alt="Top GitHub Users in Belarus" />
+  <img src="https://img.shields.io/badge/Top_256_Public_Contributions-4d8eff?style=flat-square&logo=github&logoColor=white" alt="Top Public Contributions in Belarus" />
+</a>
+&nbsp;
+<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/belarus.md">
+  <img src="https://img.shields.io/badge/Top_Total_Contributions-4d8eff?style=flat-square&logo=github&logoColor=white" alt="Top Total Contributions in Belarus" />
+</a>
+&nbsp;
+<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/belarus.md">
+  <img src="https://img.shields.io/badge/Top_Followers_Belarus-4d8eff?style=flat-square&logo=github&logoColor=white" alt="Top Followers in Belarus" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=KebiLab&label=Profile+Views&color=4d8eff&style=flat-square" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/KebiLab?logo=github&style=flat-square&color=4d8eff" alt="Total stars" />
 
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,35:12122e,65:1a1a3e,100:0a0a14&height=120&section=footer" />
 
-<sub>Built and maintained with care by <a href="https://github.com/KebiLab">@KebiLab</a> &middot; 🇧🇾 from Belarus &middot; last updated 2026</sub>
+<sub>Built and maintained with care by <a href="https://github.com/KebiLab">@KebiLab</a> · Minsk, Belarus · 2026</sub>
 
 </div>
