@@ -2,7 +2,7 @@
 
 <!-- Custom Header Banner -->
 <a href="https://kebilab.ru">
-<img width="100%" src="https://raw.githubusercontent.com/KebiLab/ReadmeForGithub/main/header-banner.svg" alt="KebiLab — Alexandr Kebikov" />
+<img width="100%" src="https://raw.githubusercontent.com/KebiLab/KebiLab/main/header-banner.svg" alt="KebiLab — Alexandr Kebikov" />
 </a>
 
 <br/>
