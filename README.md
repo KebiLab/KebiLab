@@ -111,56 +111,7 @@ I prefer **building over discussing**. If something can be solved with code, I'd
 
 ---
 
-## Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">About</th>
-      <th align="left">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/KebiLab/KebiShifrator"><b>KebiShifrator</b></a></td>
-      <td>Desktop file encryption tool. Hybrid RSA + AES encryption, PyQt6 interface.</td>
-      <td>Python · PyQt6</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KebiLab/KebiOrganise"><b>KebiOrganise</b></a></td>
-      <td>Automatic file sorting by extension in any folder. GUI version.</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KebiLab/KebiOrganiseCLI"><b>KebiOrganiseCLI</b></a></td>
-      <td>Same sorting logic, but in the terminal. For those who live in the console.</td>
-      <td>Python · CLI</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KebiLab/python-utils-cli"><b>python-utils-cli</b></a></td>
-      <td>CLI utilities: organization, hashing, verification, duplicate finder.</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KebiLab/RockPaperScissorsByYOLO"><b>RockPaperScissorsByYOLO</b></a></td>
-      <td>Rock-Paper-Scissors via computer vision. YOLO detects hand gestures in real time.</td>
-      <td>Python · YOLO · CV</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KebiLab/KebiFetch"><b>KebiFetch</b></a></td>
-      <td>Cross-platform <code>neofetch</code> alternative. Originally for Windows / PowerShell.</td>
-      <td>PowerShell</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/KebiLab/ToDo-React"><b>ToDo-React</b></a></td>
-      <td>Clean ToDo app built with React. Minimal and functional.</td>
-      <td>React</td>
-    </tr>
-  </tbody>
-</table>
-
----
 
 ## Currently Focused On
 
