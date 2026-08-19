@@ -1,59 +1,82 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Alexandr%20Kebikov&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Architect%20of%20Digital%20Experiments&descSize=20&descColor=8ec5fc&font=JetBrains+Mono" />
+<!-- KebiLab Logo -->
+<img src="https://raw.githubusercontent.com/KebiLab/KebiLab/main/assets/logo-full.svg" width="120" alt="KebiLab Logo" />
 
 <br/>
 
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,35:12122e,65:1a1a3e,100:0a0a14&height=220&section=header&text=Alexandr%20Kebikov&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20ML%20Engineer%20%7C%20Independent&descSize=18&descColor=a0a0c0&font=JetBrains+Mono" />
+
+<br/>
+
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8EC5FC&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=86&lines=FullStack+%C3%97+AI+%C3%97+DevTools+%C3%97+Product;30%2B+repos+%C2%B7+1M%2B+lines+of+code;Building+things+that+actually+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=a0a0c0&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=86&lines=FullStack+%C3%97+AI+%C3%97+DevTools+%C3%97+Product;2.5M%2B+lines+of+code+%C2%B7+60%2B+repositories;Solo+builder+since+2023+%C2%B7+Minsk%2C+Belarus" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<!-- Quick Links -->
 <p>
-  <a href="https://kebilab.ru"><b>kebilab.ru</b></a>
+  <a href="https://kebilab.ru"><b>🌐 kebilab.ru</b></a>
   &nbsp;&middot;&nbsp;
   <a href="https://github.com/KebiLab">github.com/KebiLab</a>
   &nbsp;&middot;&nbsp;
-  <i>open to interesting collaborations</i>
+  <a href="https://t.me/KebiLab">📢 Telegram Channel</a>
+</p>
+
+<br/>
+
+<!-- Badges Row -->
+<p>
+  <img src="https://user-badge.committers.top/belarus/KebiLab.svg" alt="committers.top badge" />
+  &nbsp;
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/belarus.md">
+    <img src="https://img.shields.io/badge/Belarus_Top-Contributor-blue?style=flat-square&logo=github&logoColor=white" alt="Top GitHub Users in Belarus" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KebiLab&label=Profile+Views&color=4d8eff&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-### Обо мне
+## 🧑‍💻 About Me
 
-Активно работаю с 2023 года. Этот профиль — после потери предыдущего GitHub-аккаунта, так что часть пути осталась в локальных репозиториях, а часть — здесь, в публичных коммитах. Разработчик, который предпочитает строить, а не обсуждать. Основная работа — четыре крупные приватные системы на TypeScript (Earnia, Quilli, Paly, Rhytmy) общим объёмом больше 1.3М строк с PostgreSQL под капотом. Параллельно развиваю публичные open-source инструменты и экспериментирую с AI-агентами, криптографией, computer vision и no-code платформами. В свободное время пишу утилиты для разработчиков — потому что лучший софт это тот, который решает твою же боль.
+Developer, architect, and independent builder based in **Minsk, Belarus** 🇧🇾.
+
+I build production systems that ship. My work spans **4 large private platforms** (Earnia, Quilli, Paly, Rhytmy) totaling **1.3M+ lines** of TypeScript with PostgreSQL backends. On top of that, I maintain **60+ public repositories** with tools, AI experiments, and developer utilities — crossing the **2.5M total lines of code** mark.
+
+I've been active since **2023**, after losing a previous GitHub account, so a good chunk of my earlier work lives in local repos. What you see here is the public half.
+
+I prefer **building over discussing**. If something can be solved with code, I'd rather ship it than talk about it.
+
+> 🇧🇾 Based in Belarus · Remote-first · Open to interesting collaborations
 
 ---
 
-### Стек
+### What I Do
 
-<div align="center">
-
-<a><img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,html,css,tailwind,react,nodejs,express,fastapi,django,mysql,postgres,sqlite,docker,git,github,vscode,figma,linux,powershell,bash&perline=8" /></a>
-
-</div>
-
-<div align="center">
-
-| Слой | Чем владею |
+| Domain | Details |
 | --- | --- |
-| **Языки** | TypeScript, JavaScript, Python, Go, Rust, SQL |
-| **Фронт** | React, Tailwind, нативный HTML/CSS |
-| **Бэк** | Node.js (включая чистый, без npm), FastAPI, Django, Express |
-| **Данные** | PostgreSQL, SQLite, MySQL, JSON, REST |
-| **AI / ML** | YOLO, OpenRouter, Dialogflow, Rasa, кастомные пайплайны |
-| **Безопасность** | RSA, AES, гибридная криптография |
-| **Симуляции** | LAMMPS · OVITO · Atomsk |
-| **Инструменты** | Git, GitHub CLI, Docker, PowerShell, Bash |
+| **Languages** | TypeScript, JavaScript, Python, Go, Rust, SQL |
+| **Frontend** | React, Tailwind CSS, native HTML/CSS, Next.js |
+| **Backend** | Node.js (vanilla, no npm), FastAPI, Django, Express |
+| **Data** | PostgreSQL, SQLite, MySQL, REST APIs |
+| **AI / ML** | OpenRouter, YOLO, Dialogflow, Rasa, custom pipelines |
+| **Security** | RSA, AES, hybrid cryptography |
+| **Simulation** | LAMMPS, OVITO, Atomsk (molecular dynamics) |
+| **DevOps** | Git, GitHub CLI, Docker, PowerShell, Bash |
 
+<div align="center">
+<a><img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,html,css,tailwind,react,nodejs,express,fastapi,django,mysql,postgres,docker,git,github,vscode,figma,linux,powershell,bash&perline=8" /></a>
 </div>
 
 ---
 
-### Метрики
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -83,17 +106,17 @@
 
 ---
 
-### Избранные проекты
+## 🏗️ Featured Projects
 
-#### Главные системы
+### Core Platforms (Private)
 
 <table>
   <thead>
     <tr>
-      <th align="left">Проект</th>
-      <th align="right">Объём</th>
-      <th align="left">Стек</th>
-      <th align="left">Кратко</th>
+      <th align="left">Project</th>
+      <th align="right">Size</th>
+      <th align="left">Stack</th>
+      <th align="left">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -101,102 +124,102 @@
       <td><b>Earnia</b> &nbsp;<sub>private</sub></td>
       <td align="right"><code>521K</code></td>
       <td>TypeScript</td>
-      <td>Крупнейшая собственная система. Production-grade фронт и бэк в одной кодовой базе.</td>
+      <td>Largest personal system. Production-grade frontend and backend in a single codebase.</td>
     </tr>
     <tr>
       <td><b>Quilli</b> &nbsp;<sub>private</sub></td>
       <td align="right"><code>305K</code></td>
       <td>TypeScript · PLpgSQL</td>
-      <td>Платформа с собственной схемой данных на PostgreSQL. Сложная бизнес-логика.</td>
+      <td>Platform with a custom data schema on PostgreSQL. Complex business logic.</td>
     </tr>
     <tr>
       <td><b>Paly</b> &nbsp;<sub>private</sub></td>
       <td align="right"><code>262K</code></td>
       <td>TypeScript · PLpgSQL</td>
-      <td>Production-проект с серьёзной реляционной моделью и продуманной архитектурой.</td>
+      <td>Production project with a serious relational model and well-designed architecture.</td>
     </tr>
     <tr>
-      <td><b>Rhytmy</b> &nbsp;<sub>private</sub> &nbsp;<sub><i>ex-Cadence</i></sub></td>
+      <td><b>Rhytmy</b> &nbsp;<sub>private</sub></td>
       <td align="right"><code>204K</code></td>
       <td>TypeScript</td>
-      <td>Personal energy OS для тех, кто работает головой. Учёт энергии, фокуса, ритма.</td>
+      <td>Personal energy OS for knowledge workers. Tracks energy, focus, and rhythm.</td>
     </tr>
   </tbody>
 </table>
 
-#### Open source
+### Open Source
 
 <table>
   <thead>
     <tr>
-      <th align="left">Проект</th>
-      <th align="left">О чём</th>
-      <th align="left">Стек</th>
+      <th align="left">Project</th>
+      <th align="left">About</th>
+      <th align="left">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/KebiLab/KebiShifrator"><b>KebiShifrator</b></a> &nbsp;<sub>4&nbsp;&#9733;</sub></td>
-      <td>Десктопный инструмент шифрования файлов. Гибридная схема RSA&nbsp;+&nbsp;AES, PyQt6-интерфейс.</td>
+      <td><a href="https://github.com/KebiLab/KebiShifrator"><b>KebiShifrator</b></a> &nbsp;<sub>4★</sub></td>
+      <td>Desktop file encryption tool. Hybrid RSA + AES scheme, PyQt6 interface.</td>
       <td>Python · PyQt6</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/KebiOrganise"><b>KebiOrganise</b></a> &nbsp;<sub>4&nbsp;&#9733;</sub></td>
-      <td>Автоматическая сортировка файлов в выбранной папке по расширениям. GUI-версия.</td>
+      <td><a href="https://github.com/KebiLab/KebiOrganise"><b>KebiOrganise</b></a> &nbsp;<sub>4★</sub></td>
+      <td>Automatic file sorting by extension in any folder. GUI version.</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/KebiOrganiseCLI"><b>KebiOrganiseCLI</b></a> &nbsp;<sub>4&nbsp;&#9733;</sub></td>
-      <td>Та же логика, но в терминале. Для тех, кто живёт в консоли.</td>
+      <td><a href="https://github.com/KebiLab/KebiOrganiseCLI"><b>KebiOrganiseCLI</b></a> &nbsp;<sub>4★</sub></td>
+      <td>Same sorting logic, but in the terminal. For those who live in the console.</td>
       <td>Python · CLI</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/python-utils-cli"><b>python-utils-cli</b></a> &nbsp;<sub>3&nbsp;&#9733;</sub></td>
-      <td>Набор CLI-утилит: организация, хеширование, верификация, поиск дубликатов.</td>
+      <td><a href="https://github.com/KebiLab/python-utils-cli"><b>python-utils-cli</b></a> &nbsp;<sub>3★</sub></td>
+      <td>CLI utilities: organization, hashing, verification, duplicate finder.</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KebiLab/RockPaperScissorsByYOLO"><b>RockPaperScissorsByYOLO</b></a> &nbsp;<sub>1&nbsp;&#9733;</sub></td>
-      <td>Камень-ножницы-бумага через компьютерное зрение. YOLO детектит жесты.</td>
+      <td><a href="https://github.com/KebiLab/RockPaperScissorsByYOLO"><b>RockPaperScissorsByYOLO</b></a> &nbsp;<sub>1★</sub></td>
+      <td>Rock-Paper-Scissors via computer vision. YOLO detects hand gestures.</td>
       <td>Python · YOLO · CV</td>
     </tr>
     <tr>
       <td><a href="https://github.com/KebiLab/KebiFetch"><b>KebiFetch</b></a></td>
-      <td>Кроссплатформенный аналог <code>neofetch</code>. Изначально под Windows, на PowerShell.</td>
+      <td>Cross-platform <code>neofetch</code> alternative. Originally for Windows / PowerShell.</td>
       <td>PowerShell</td>
     </tr>
     <tr>
       <td><a href="https://github.com/KebiLab/ToDo-React"><b>ToDo-React</b></a></td>
-      <td>Классический ToDo на React. Учебный, но честный.</td>
+      <td>Classic ToDo app on React. Educational, but honest.</td>
       <td>React</td>
     </tr>
   </tbody>
 </table>
 
-#### AI и автоматизация
+### AI & Automation
 
 <table>
   <thead>
     <tr>
-      <th align="left">Проект</th>
-      <th align="left">О чём</th>
-      <th align="left">Стек</th>
+      <th align="left">Project</th>
+      <th align="left">About</th>
+      <th align="left">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>KeBots</b> &nbsp;<sub>private</sub></td>
-      <td>No-code платформа AI-чатботов для e-commerce. Гибридный движок: Rasa&nbsp;+&nbsp;OpenRouter. Деплой через CSV или API.</td>
+      <td>No-code AI chatbot platform for e-commerce. Hybrid engine: Rasa + OpenRouter.</td>
       <td>TypeScript · Python · Docker</td>
     </tr>
     <tr>
       <td><b>KebiRobot</b> &nbsp;<sub>private</sub></td>
-      <td>Retail-чатбот: рекомендации, трекинг заказов, поддержка. Dialogflow&nbsp;+&nbsp;FastAPI.</td>
+      <td>Retail chatbot: recommendations, order tracking, support. Dialogflow + FastAPI.</td>
       <td>Python · PostgreSQL · Telegram</td>
     </tr>
     <tr>
       <td><b>HuntAi</b> &nbsp;<sub>private</sub></td>
-      <td>AI-фильтр для фриланс-чатов в Telegram. Находит релевантные заказы, чтобы не искать их вручную.</td>
+      <td>AI filter for freelance chats in Telegram. Finds relevant orders automatically.</td>
       <td>Python · AI</td>
     </tr>
   </tbody>
@@ -204,27 +227,47 @@
 
 ---
 
-### Сейчас в фокусе
+## 🔥 Currently Focused On
 
-- Встраиваю AI-агентов в production через OpenRouter и кастомные пайплайны
-- Развиваю TypeScript-бэкенды на чистом Node.js &mdash; без npm-зависимостей, на минимальном ядре
-- Изучаю Go как второй системный язык
-- Собираю no-code платформы, где продукт важнее стека
+- Embedding **AI agents** in production via OpenRouter and custom pipelines
+- Building **TypeScript backends** on vanilla Node.js — zero npm dependencies
+- Learning **Go** as a second systems language
+- Creating **no-code platforms** where the product matters more than the stack
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🌐 **Website** | [kebilab.ru](https://kebilab.ru) |
+| 💬 **Telegram Channel** | [@KebiLab](https://t.me/KebiLab) |
+| 🐙 **GitHub** | [@KebiLab](https://github.com/KebiLab) |
+| 💼 **LinkedIn** | [Alexandr Kebikov](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BA%D0%B5%D0%B1%D0%B8%D0%BA%D0%BE%D0%B2-7271633b8/) |
+| 🎵 **TikTok** | [@kebi.lab](https://www.tiktok.com/@kebi.lab) |
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KebiLab&label=profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://user-badge.committers.top/belarus/KebiLab.svg" alt="committers.top Belarus" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/KebiLab?logo=github&style=flat-square&color=0e75b6" alt="Total stars" />
+<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/belarus.md">
+  <img src="https://img.shields.io/badge/Belarus_Top-Contributor-blue?style=flat-square&logo=github&logoColor=white" alt="Top GitHub Users in Belarus" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/followers-12-0e75b6?style=flat-square" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=KebiLab&label=Profile+Views&color=4d8eff&style=flat-square" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/KebiLab?logo=github&style=flat-square&color=4d8eff" alt="Total stars" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,35:12122e,65:1a1a3e,100:0a0a14&height=120&section=footer" />
 
-<sub>Built and maintained with care by <a href="https://github.com/KebiLab">@KebiLab</a> &middot; last updated 2026</sub>
+<sub>Built and maintained with care by <a href="https://github.com/KebiLab">@KebiLab</a> &middot; 🇧🇾 from Belarus &middot; last updated 2026</sub>
 
 </div>
