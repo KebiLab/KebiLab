@@ -1,136 +1,105 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="960" height="320">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0a14"/>
-      <stop offset="40%" stop-color="#12122e"/>
-      <stop offset="70%" stop-color="#1a1a3e"/>
-      <stop offset="100%" stop-color="#0a0a14"/>
+    <!-- Background gradient — soft light -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8f9fc"/>
+      <stop offset="60%" stop-color="#eef0f5"/>
+      <stop offset="100%" stop-color="#e4e7ee"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#4d8eff"/>
-      <stop offset="100%" stop-color="#a855f7"/>
+
+    <!-- Silk wave fills -->
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0.3">
+      <stop offset="0%" stop-color="#d0d4e0" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#b8bdd0" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#c4c9da" stop-opacity="0.35"/>
     </linearGradient>
-    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0.2">
+      <stop offset="0%" stop-color="#c0c5d5" stop-opacity="0.2"/>
+      <stop offset="40%" stop-color="#a8adc0" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#b8bdd0" stop-opacity="0.25"/>
     </linearGradient>
-    <filter id="blur1">
-      <feGaussianBlur stdDeviation="60"/>
+    <linearGradient id="wave3" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0%" stop-color="#d5d9e5" stop-opacity="0.15"/>
+      <stop offset="60%" stop-color="#c8cdd8" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#dde0ea" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <!-- Highlight line along the wave crest -->
+    <linearGradient id="crest" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#ffffff" stop-opacity="0.7"/>
+      <stop offset="70%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <!-- Subtle shadow for depth -->
+    <filter id="softShadow" x="-5%" y="-5%" width="110%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dx="0" dy="4" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.08"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
-    <filter id="blur2">
-      <feGaussianBlur stdDeviation="40"/>
-    </filter>
+
+    <!-- Logo circle gradient -->
+    <linearGradient id="logoCircle" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2c3e6b"/>
+      <stop offset="100%" stop-color="#1a2544"/>
+    </linearGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="960" height="320" fill="url(#bg)"/>
+  <!-- Base background -->
+  <rect width="1280" height="400" fill="url(#bg)"/>
 
-  <!-- Ambient glow spots -->
-  <circle cx="200" cy="160" r="120" fill="#4d8eff" opacity="0.06" filter="url(#blur1)"/>
-  <circle cx="760" cy="160" r="100" fill="#a855f7" opacity="0.06" filter="url(#blur1)"/>
-  <circle cx="480" cy="280" r="80" fill="#4d8eff" opacity="0.04" filter="url(#blur2)"/>
+  <!-- === SILK WAVE LAYERS === -->
 
-  <!-- Subtle grid dots -->
-  <g opacity="0.04" fill="#ffffff">
-    <circle cx="80" cy="40" r="1"/>
-    <circle cx="160" cy="40" r="1"/>
-    <circle cx="240" cy="40" r="1"/>
-    <circle cx="320" cy="40" r="1"/>
-    <circle cx="400" cy="40" r="1"/>
-    <circle cx="480" cy="40" r="1"/>
-    <circle cx="560" cy="40" r="1"/>
-    <circle cx="640" cy="40" r="1"/>
-    <circle cx="720" cy="40" r="1"/>
-    <circle cx="800" cy="40" r="1"/>
-    <circle cx="880" cy="40" r="1"/>
-    <circle cx="80" cy="80" r="1"/>
-    <circle cx="160" cy="80" r="1"/>
-    <circle cx="240" cy="80" r="1"/>
-    <circle cx="320" cy="80" r="1"/>
-    <circle cx="400" cy="80" r="1"/>
-    <circle cx="480" cy="80" r="1"/>
-    <circle cx="560" cy="80" r="1"/>
-    <circle cx="640" cy="80" r="1"/>
-    <circle cx="720" cy="80" r="1"/>
-    <circle cx="800" cy="80" r="1"/>
-    <circle cx="880" cy="80" r="1"/>
-    <circle cx="80" cy="120" r="1"/>
-    <circle cx="160" cy="120" r="1"/>
-    <circle cx="240" cy="120" r="1"/>
-    <circle cx="320" cy="120" r="1"/>
-    <circle cx="400" cy="120" r="1"/>
-    <circle cx="480" cy="120" r="1"/>
-    <circle cx="560" cy="120" r="1"/>
-    <circle cx="640" cy="120" r="1"/>
-    <circle cx="720" cy="120" r="1"/>
-    <circle cx="800" cy="120" r="1"/>
-    <circle cx="880" cy="120" r="1"/>
-    <circle cx="80" cy="160" r="1"/>
-    <circle cx="160" cy="160" r="1"/>
-    <circle cx="240" cy="160" r="1"/>
-    <circle cx="320" cy="160" r="1"/>
-    <circle cx="400" cy="160" r="1"/>
-    <circle cx="480" cy="160" r="1"/>
-    <circle cx="560" cy="160" r="1"/>
-    <circle cx="640" cy="160" r="1"/>
-    <circle cx="720" cy="160" r="1"/>
-    <circle cx="800" cy="160" r="1"/>
-    <circle cx="880" cy="160" r="1"/>
-    <circle cx="80" cy="200" r="1"/>
-    <circle cx="160" cy="200" r="1"/>
-    <circle cx="240" cy="200" r="1"/>
-    <circle cx="320" cy="200" r="1"/>
-    <circle cx="400" cy="200" r="1"/>
-    <circle cx="480" cy="200" r="1"/>
-    <circle cx="560" cy="200" r="1"/>
-    <circle cx="640" cy="200" r="1"/>
-    <circle cx="720" cy="200" r="1"/>
-    <circle cx="800" cy="200" r="1"/>
-    <circle cx="880" cy="200" r="1"/>
-    <circle cx="80" cy="240" r="1"/>
-    <circle cx="160" cy="240" r="1"/>
-    <circle cx="240" cy="240" r="1"/>
-    <circle cx="320" cy="240" r="1"/>
-    <circle cx="400" cy="240" r="1"/>
-    <circle cx="480" cy="240" r="1"/>
-    <circle cx="560" cy="240" r="1"/>
-    <circle cx="640" cy="240" r="1"/>
-    <circle cx="720" cy="240" r="1"/>
-    <circle cx="800" cy="240" r="1"/>
-    <circle cx="880" cy="240" r="1"/>
-    <circle cx="80" cy="280" r="1"/>
-    <circle cx="160" cy="280" r="1"/>
-    <circle cx="240" cy="280" r="1"/>
-    <circle cx="320" cy="280" r="1"/>
-    <circle cx="400" cy="280" r="1"/>
-    <circle cx="480" cy="280" r="1"/>
-    <circle cx="560" cy="280" r="1"/>
-    <circle cx="640" cy="280" r="1"/>
-    <circle cx="720" cy="280" r="1"/>
-    <circle cx="800" cy="280" r="1"/>
-    <circle cx="880" cy="280" r="1"/>
+  <!-- Back wave — deepest, most blurred -->
+  <path d="M0 260 C120 220, 280 300, 420 250 C560 200, 680 290, 820 240 C960 190, 1100 270, 1280 230 L1280 400 L0 400 Z"
+        fill="url(#wave3)" opacity="0.6"/>
+
+  <!-- Middle wave -->
+  <path d="M0 280 C160 240, 300 310, 460 260 C620 210, 740 300, 880 255 C1020 210, 1140 280, 1280 250 L1280 400 L0 400 Z"
+        fill="url(#wave2)" opacity="0.7"/>
+
+  <!-- Front wave — sharpest -->
+  <path d="M0 295 C180 260, 340 330, 500 275 C660 220, 780 310, 920 268 C1060 226, 1180 295, 1280 265 L1280 400 L0 400 Z"
+        fill="url(#wave1)" opacity="0.8"/>
+
+  <!-- Silk crest highlight lines — the signature "silk" effect -->
+  <!-- Crest line 1 -->
+  <path d="M0 295 C180 260, 340 330, 500 275 C660 220, 780 310, 920 268 C1060 226, 1180 295, 1280 265"
+        fill="none" stroke="url(#crest)" stroke-width="1.5" opacity="0.9"/>
+
+  <!-- Crest line 2 — slightly above -->
+  <path d="M0 288 C180 253, 340 323, 500 268 C660 213, 780 303, 920 261 C1060 219, 1180 288, 1280 258"
+        fill="none" stroke="url(#crest)" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Secondary soft wave in the back for depth -->
+  <path d="M0 310 C200 275, 380 340, 540 290 C700 240, 820 320, 960 278 C1100 236, 1200 305, 1280 280 L1280 400 L0 400 Z"
+        fill="#e8eaf0" opacity="0.4"/>
+
+  <!-- Very subtle top silk ribbon -->
+  <path d="M0 180 C200 160, 400 200, 600 170 C800 140, 1000 190, 1280 165"
+        fill="none" stroke="#d0d4e0" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- === CONTENT === -->
+
+  <!-- Logo circle -->
+  <g filter="url(#softShadow)">
+    <circle cx="140" cy="200" r="62" fill="url(#logoCircle)" stroke="#e0e3ea" stroke-width="2"/>
+    <!-- KebiLab "K" from logo-full.svg, centered in circle -->
+    <g transform="translate(140, 200) scale(0.24) translate(-256, -256)">
+      <path fill="#ffffff" d="M 153.5 139 Q 161.5 137.5 164 141.5 L 164 336.5 L 163 337.5 L 164.5 338 L 177 325.5 L 177 324 L 182 320.5 L 203.5 297 Q 205.8 297.8 205 295.5 L 270.5 227 Q 272.8 227.8 272 225.5 L 282.5 214 Q 284.8 214.8 284 212.5 L 301.5 194 Q 303.8 194.8 303 192.5 L 312.5 182 L 316 179.5 L 351.5 142 Q 355.8 138.8 363.5 139 Q 373.5 140.5 378 147.5 L 382 156.5 L 382 357.5 L 381 361.5 L 373.5 371 L 364.5 375 L 357.5 375 Q 350.3 373.7 346.5 369 L 298.5 326 L 291 321 L 289.5 318 L 251.5 285 L 249.5 285 L 242.5 293 Q 240.3 292.3 241 294.5 L 219.5 318 Q 217.3 317.3 218 319.5 L 208 329.5 L 208 331 L 204 333.5 L 167.5 372 L 159.5 375 L 153.5 375 Q 144.4 372.5 140 365.5 L 137 359.5 L 137 153.5 L 143.5 144 L 153.5 139 Z M 355 176 L 336 196 L 334 197 L 311 221 Q 312 223 310 222 L 269 266 L 284 279 Q 286 278 285 281 L 323 314 Q 325 313 324 316 L 349 336 L 355 342 L 355 176 Z"/>
+    </g>
   </g>
 
-  <!-- KebiLab Logo (scaled down from assets/logo-full.svg) -->
-  <g transform="translate(480, 120) scale(0.12) translate(-256, -256)">
-    <path fill="#ffffff" d="M 153.5 139 Q 161.5 137.5 164 141.5 L 164 336.5 L 163 337.5 L 164.5 338 L 177 325.5 L 177 324 L 182 320.5 L 203.5 297 Q 205.8 297.8 205 295.5 L 270.5 227 Q 272.8 227.8 272 225.5 L 282.5 214 Q 284.8 214.8 284 212.5 L 301.5 194 Q 303.8 194.8 303 192.5 L 312.5 182 L 316 179.5 L 351.5 142 Q 355.8 138.8 363.5 139 Q 373.5 140.5 378 147.5 L 382 156.5 L 382 357.5 L 381 361.5 L 373.5 371 L 364.5 375 L 357.5 375 Q 350.3 373.7 346.5 369 L 298.5 326 L 291 321 L 289.5 318 L 251.5 285 L 249.5 285 L 242.5 293 Q 240.3 292.3 241 294.5 L 219.5 318 Q 217.3 317.3 218 319.5 L 208 329.5 L 208 331 L 204 333.5 L 167.5 372 L 159.5 375 L 153.5 375 Q 144.4 372.5 140 365.5 L 137 359.5 L 137 153.5 L 143.5 144 L 153.5 139 Z M 355 176 L 336 196 L 334 197 L 311 221 Q 312 223 310 222 L 269 266 L 284 279 Q 286 278 285 281 L 323 314 Q 325 313 324 316 L 349 336 L 355 342 L 355 176 Z"/>
-  </g>
+  <!-- Brand name -->
+  <text x="240" y="190" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="58" font-weight="700" fill="#1a1e2e" letter-spacing="-2">KebiLab</text>
 
-  <!-- "Alexandr Kebikov" -->
-  <text x="480" y="185" text-anchor="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="-1">Alexandr Kebikov</text>
-
-  <!-- Accent line -->
-  <rect x="420" y="200" width="120" height="2" rx="1" fill="url(#glow)"/>
-
-  <!-- "KebiLab" subtitle -->
-  <text x="480" y="230" text-anchor="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="20" font-weight="500" fill="#a0a0c0" letter-spacing="4">KEBILAB</text>
-
-  <!-- Role tags -->
-  <text x="480" y="262" text-anchor="middle" font-family="JetBrains Mono, Fira Code, monospace" font-size="13" font-weight="400" fill="#6d6d80" letter-spacing="0.5">Fullstack Developer · ML Engineer · Independent</text>
-
-  <!-- Bottom accent line -->
-  <rect x="0" y="316" width="960" height="4" fill="url(#glow)"/>
-
-  <!-- Subtle shine overlay -->
-  <rect width="960" height="160" fill="url(#shine)"/>
+  <!-- Subtitle -->
+  <text x="240" y="230" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="18" font-weight="400" fill="#6b7080" letter-spacing="0.5">Alexandr Kebikov · Fullstack Developer &amp; ML Engineer</text>
 </svg>
