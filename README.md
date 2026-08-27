@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Custom Header Banner -->
+
 <a href="https://kebilab.ru">
 <img width="100%" src="https://raw.githubusercontent.com/KebiLab/KebiLab/main/header-banner.svg" alt="KebiLab — Alexandr Kebikov" />
 </a>
 
 <br/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=a0a0c0&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=86&lines=FullStack+%C3%97+AI+%C3%97+DevTools+%C3%97+Product;Custom+platforms+%C2%B7+Software+%C2%B7+Apps;Minsk%2C+Belarus+%C2%B7+Since+2023" alt="Typing SVG" />
 </a>
