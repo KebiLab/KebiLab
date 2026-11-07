@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="KebiLab — Alexandr Kebikov">
+<defs><radialGradient id="a" cx="50%" cy="45%" r="65%"><stop stop-color="#20234d"/><stop offset="1" stop-color="#0d0d1a"/></radialGradient><linearGradient id="b"><stop stop-color="#4d8eff"/><stop offset="1" stop-color="#a5c7ff"/></linearGradient></defs>
+<rect width="1200" height="320" rx="18" fill="url(#a)"/>
+<path d="M0 245 C220 180 320 300 570 235 S940 170 1200 235" fill="none" stroke="#4d8eff" stroke-opacity=".12"/>
+<path d="M0 265 C240 200 380 315 650 250 S990 195 1200 250" fill="none" stroke="#a5c7ff" stroke-opacity=".08"/>
+<path d="M566 106 L566 64 L584 84 L604 64 L604 106 M584 84 L604 106" fill="none" stroke="url(#b)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="600" y="175" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#f3f6ff">KebiLab</text>
+<text x="600" y="211" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3" fill="#9ba9cb">ALEXANDR KEBIKOV</text>
+<text x="600" y="240" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.5" fill="#7786aa">FULL-STACK DEVELOPMENT  ·  AI  ·  DEVTOOLS</text>
+</svg>
